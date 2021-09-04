@@ -32,7 +32,7 @@ public class Application {
 
     public static void start(){
         Writable<String[]> randomWriter = new Writer("input", properties);
-        Creatable<String[]> creator = new RandomCreator(5, 600, 0, 15, 'a', 'g', 3);
+        Creatable<String[]> creator = new RandomCreator(5, 100, 0, 15, 'a', 'g', 3);
         randomWriter.write(creator.create());
         System.out.println("[Writer] Random data was written to the file 'input.txt'");
         Readable<String[]> reader = new Reader("input", properties);

@@ -32,6 +32,19 @@ public class Row implements Comparable<Row>{
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Row row = (Row) o;
+        return Arrays.equals(cells, row.cells);
+    }
+
+    @Override
+    public int hashCode() {
+        return Arrays.hashCode(cells);
+    }
+
+    @Override
     public String toString() {
         return Arrays.stream(cells).map(Cell::getValue).reduce((x, y) -> x + "\t" + y).get();
     }

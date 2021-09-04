@@ -2,6 +2,8 @@ package by.nikunenko.app.entity;
 
 import by.nikunenko.app.enums.CellsEnum;
 
+import java.util.Objects;
+
 public class Cell implements Comparable<Cell>{
 
     private String value;
@@ -30,6 +32,19 @@ public class Cell implements Comparable<Cell>{
             return type1.getComparator().compare(this.getValue(), o.getValue());
         }
         return comp;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Cell cell = (Cell) o;
+        return value.equals(cell.value);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(value);
     }
 
     @Override
