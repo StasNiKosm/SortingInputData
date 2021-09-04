@@ -31,13 +31,13 @@ public class Application {
     }
 
     public static void start(){
-        Writable<String[]> randomWriter = new Writer("input", properties);
+        Writable<String[]> randomWriter = new Writer("in", properties);
         Creatable<String[]> creator = new RandomCreator(5, 100, 0, 15, 'a', 'g', 3);
         randomWriter.write(creator.create());
-        System.out.println("[Writer] Random data was written to the file 'input.txt'");
-        Readable<String[]> reader = new Reader("input", properties);
+        System.out.println("[Writer] Random data was written to the file 'in.txt'");
+        Readable<String[]> reader = new Reader("in", properties);
         String[] lines = reader.read();
-        System.out.println("[Reader] The data was read from the file 'input.txt'");
+        System.out.println("[Reader] The data was read from the file 'in.txt'");
         Table table = Parser.parseToTable(lines);
         table.sort();
         System.out.println("[Table] The data was sorted");

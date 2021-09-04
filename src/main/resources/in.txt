@@ -1,0 +1,100 @@
+	14			3
+e	10		2	
+4	7	9	10	1
+f	5	e		3
+6	de	bd	cb	10
+2	4	11	10	14
+ba	5		ce	
+13	7		8	13
+2	4	4	5	11
+7	f	0	c	b
+6	6		c	
+2	d	11	14	9
+10	1	d	fe	
+ab		4	14	da
+fc	14		b	bf
+8	14	d	ef	cc
+cd	7		12	e
+13	d		d	14
+4	ee	fb	11	
+ea		2	12	c
+ba			9	c
+e	14	de	11	13
+		ad	ec	
+10	10	10	c	8
+1	9		12	d
+5	4	a	6	12
+	1	12	12	7
+ac	10	c	3	
+7	cd	dd	aa	e
+	7		fe	6
+bf	7	9	6	0
+8	1	9		2
+ee	fb	14	5	
+1		0	1	b
+aa	4	8	14	c
+cb		10	b	6
+10	a		9	ff
+ca		ce		dd
+12	1	2	a	a
+14		13		
+ef	b	14	e	cd
+9	12	8	e	bc
+9	13	bc	0	3
+cc		14	1	f
+9	3	13	13	7
+a	fb		11	14
+6	f			cd
+3	11	aa	f	6
+12	7	fa	14	
+6			6	1
+14	12	db	a	ff
+6	a	d	7	0
+	7	ea	11	da
+13	a	6	0	ca
+3	14	b	5	12
+13	3	13	1	ed
+e	cd	5	6	3
+14	b	6	14	14
+	4	ed		be
+d	0	6	2	9
+be	f	8		1
+10	12		b	ff
+8	2	e	a	a
+9	14	ea	7	
+	0	cc	f	
+df	5	ac		14
+11		2	b	5
+13	0	10	12	13
+0	10	bb	b	5
+11	8	4	ac	5
+f		e	ae	bb
+	5		10	5
+cc	13	ba	3	4
+6		13	13	12
+13	5	1	2	11
+5		5		7
+	0	10	6	f
+d	5		4	1
+	8		10	14
+3	4	9	ff	9
+2	ea	13	8	
+7	a	5	13	7
+	dc	dc	2	
+6	10	4	d	d
+14		11	6	1
+		8	10	bc
+6			1	
+f			8	6
+ce	9	8	1	fb
+3	cd	10		eb
+10	b	2		7
+2	bc	1	ab	2
+	2	12	3	4
+13	ce	5	b	b
+c	10	11	10	cc
+7	af	c	a	5
+9	ea	14	e	7
+8	10	7	9	f
+11	0	10	b	
+d	13	7	a	ac

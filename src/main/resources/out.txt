@@ -1,100 +1,100 @@
-0	dd	12	14	a
-1	2		bc	4
-1	14		3	a
-1	bf	f	fe	14
-1	d	2	7	a
-1	fe			a
-2	2	6	4	7
-2	5	14	13	1
-2	5	f	be	cf
-2		6	fc	ed
-2	a	7	0	
-3	13	ef		4
-3	14	ab	2	a
-3	ce	5		cd
-4	7	2		12
-4	10	0	d	9
-4	14		12	c
-4	a	6	b	0
-4	ec	2	2	13
-4	fb	e	df	
-5	0	d	7	f
-5	3	fa	b	7
-5		f		ae
-5	ef	bb	12	a
-6	1	14	4	cb
-6	2	0	10	ce
-6	14	8	9	
-6	aa		c	11
-7		7	bf	ee
-7		9	1	5
-7	a	4	1	6
-8	4	3	8	ab
-8		4	8	fd
-8		14	d	
-8	be	3	10	1
-8	d			b
-8	f		0	f
-10	6		2	3
-10		7	11	5
-10	a		10	12
-10	e	10	13	7
-11	4	d	ba	4
-11	5	13	df	11
-11	10	dd	0	e
-11	bb	fc	3	
-11	d	f		eb
-12	7	10		a
-12		aa	cd	0
-12	d	b	b	f
-13	1	2	e	10
-13	3	2		10
-13	3	13		ad
-13			10	11
-14	d	14		
-14	df	7	ec	
-	0		ca	11
-	3	10	0	10
-	4	b	f	10
-	6	2		b
-	8	9	12	
-	9	fc	14	7
-	10	1	2	10
-	12	ff		
-	14	eb	4	13
-		6	1	a
-	b		5	ce
-	bc	6	10	ff
-	d	6	b	10
-	fa	1	c	
-	fe	fc	13	
-	ff	4	0	b
-a	4		b	a
-a	6		11	6
-a	10	10		9
-a	13		bd	10
-a	e	df	f	dc
-ac	b	11	ba	13
-b	3	9	5	6
-b	10			
-b	a	ec	5	
-b	c	cb		3
-ba	b	12	1	
-bc	6	ec	4	1
-c	13		a	11
-c	bf		12	
-c	c	ba	e	11
-ca	4	14	3	0
-cb	0	a	e	cd
-cc	13		fb	
-cf	10	b	5	10
-d	1	e	3	a
-d			b	e
-d	dc	13		13
-dc		fc	c	6
-e	6	14	10	4
-e	7	14		a
-e	eb	12	ff	
-ec	3		5	
-f	8	8	d	
-f	12	a	10	
+0	10	bb	b	5
+1	9		12	d
+1		0	1	b
+2	4	4	5	11
+2	4	11	10	14
+2	bc	1	ab	2
+2	d	11	14	9
+2	ea	13	8	
+3	4	9	ff	9
+3	11	aa	f	6
+3	14	b	5	12
+3	cd	10		eb
+4	7	9	10	1
+4	ee	fb	11	
+5	4	a	6	12
+5		5		7
+6	6		c	
+6	10	4	d	d
+6		13	13	12
+6			1	
+6			6	1
+6	a	d	7	0
+6	de	bd	cb	10
+6	f			cd
+7	a	5	13	7
+7	af	c	a	5
+7	cd	dd	aa	e
+7	f	0	c	b
+8	1	9		2
+8	2	e	a	a
+8	10	7	9	f
+8	14	d	ef	cc
+9	3	13	13	7
+9	12	8	e	bc
+9	13	bc	0	3
+9	14	ea	7	
+9	ea	14	e	7
+10	1	d	fe	
+10	10	10	c	8
+10	12		b	ff
+10	a		9	ff
+10	b	2		7
+11	0	10	b	
+11	8	4	ac	5
+11		2	b	5
+12	1	2	a	a
+12	7	fa	14	
+13	0	10	12	13
+13	3	13	1	ed
+13	5	1	2	11
+13	7		8	13
+13	a	6	0	ca
+13	ce	5	b	b
+13	d		d	14
+14	12	db	a	ff
+14		11	6	1
+14		13		
+14	b	6	14	14
+	0	10	6	f
+	0	cc	f	
+	1	12	12	7
+	2	12	3	4
+	4	ed		be
+	5		10	5
+	7		fe	6
+	7	ea	11	da
+	8		10	14
+	14			3
+		8	10	bc
+		ad	ec	
+	dc	dc	2	
+a	fb		11	14
+aa	4	8	14	c
+ab		4	14	da
+ac	10	c	3	
+ba	5		ce	
+ba			9	c
+be	f	8		1
+bf	7	9	6	0
+c	10	11	10	cc
+ca		ce		dd
+cb		10	b	6
+cc	13	ba	3	4
+cc		14	1	f
+cd	7		12	e
+ce	9	8	1	fb
+d	0	6	2	9
+d	5		4	1
+d	13	7	a	ac
+df	5	ac		14
+e	10		2	
+e	14	de	11	13
+e	cd	5	6	3
+ea		2	12	c
+ee	fb	14	5	
+ef	b	14	e	cd
+f	5	e		3
+f			8	6
+f		e	ae	bb
+fc	14		b	bf
