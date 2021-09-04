@@ -1,4 +1,4 @@
-package by.nikunenko.app.context;
+package by.nikunenko.app.main;
 
 import by.nikunenko.app.creator.Creatable;
 import by.nikunenko.app.creator.impl.RandomCreator;
