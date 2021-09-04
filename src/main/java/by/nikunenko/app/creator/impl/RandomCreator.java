@@ -2,7 +2,7 @@ package by.nikunenko.app.creator.impl;
 
 import by.nikunenko.app.enums.SeparatorsEnum;
 
-public class RandomCreator extends AbstractCreator {
+public class RandomCreator extends AbstractCreator<String[]> {
 
     private int beginInt;
     private int endInt;

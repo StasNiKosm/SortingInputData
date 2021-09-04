@@ -1,5 +1,5 @@
 package by.nikunenko.app.creator;
 
-public interface Creatable {
-    String[] create();
+public interface Creatable<T> {
+    T create();
 }

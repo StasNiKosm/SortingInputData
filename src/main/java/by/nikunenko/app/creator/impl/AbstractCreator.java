@@ -2,7 +2,7 @@ package by.nikunenko.app.creator.impl;
 
 import by.nikunenko.app.creator.Creatable;
 
-public abstract class AbstractCreator implements Creatable {
+public abstract class AbstractCreator<T> implements Creatable<T> {
 
     protected int linesCount;
     protected int columnCount;
